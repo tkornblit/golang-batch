@@ -1,4 +1,4 @@
 golang-batch
 ============
 
-Simple batching iterating over collections
+Iterating in batches over collections made simple.
